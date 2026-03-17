@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Research_Prototype-blue)
 ![Language](https://img.shields.io/badge/Language-Python_3.10+-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Context](https://img.shields.io/badge/Project-TÜBİTAK_2204_A-red)
+![Context](https://img.shields.io/badge/Project-PROJE YARIŞMALARI)
 
 > **"Kuantum çağında en güvenli veri, şifreli olan değil; varlığı bilinmeyen veridir."**
 
